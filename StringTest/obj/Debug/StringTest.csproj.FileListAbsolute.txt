@@ -1,0 +1,6 @@
+E:\StringTest\StringTest\StringTest\bin\Debug\StringTest.exe.config
+E:\StringTest\StringTest\StringTest\bin\Debug\StringTest.exe
+E:\StringTest\StringTest\StringTest\bin\Debug\StringTest.pdb
+E:\StringTest\StringTest\StringTest\obj\Debug\StringTest.csprojResolveAssemblyReference.cache
+E:\StringTest\StringTest\StringTest\obj\Debug\StringTest.exe
+E:\StringTest\StringTest\StringTest\obj\Debug\StringTest.pdb
